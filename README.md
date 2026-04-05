@@ -7,10 +7,10 @@ Covers data cleaning, KPI engineering, exploratory analysis, and Power BI dashbo
 Tools used: Python (pandas, matplotlib, seaborn) · Power BI
 
 Key Findings
-- Overall late delivery rate: **XX%**
-- Top revenue category: **[your result]**
-- Highest performing market: **[your result]**
-- Riskiest shipping mode: **[your result]**
+- Overall late delivery rate: **54.8%**
+- Top revenue category: **Fishing**
+- Highest performing market: **Europe**
+- Riskiest shipping mode: **First Class**
 
 ---
 
