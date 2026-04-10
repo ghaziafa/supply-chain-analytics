@@ -37,26 +37,20 @@ An end-to-end data analysis project on a real-world supply chain dataset contain
 
 ### Visualisations
 
-### Sales by Category
-![Sales by Category](images/sales_by_category.png)
+- Sales by Category
 
-### Late Delivery Rate by Shipping Mode
-![Late Delivery](images/late_delivery_by_mode.png)
+- Late Delivery Rate by Shipping Mode
 
-### Monthly Sales Trend
-![Monthly Trend](images/monthly_sales_trend.png)
+- Monthly Sales Trend
 
-### Profit by Customer Segment
-![Profit](images/profit_by_segment.png)
+- Profit by Customer Segment
 
-### Net Revenue by Market
-![Revenue](images/revenue_by_market.png)
+- Net Revenue by Market
 
-### Delivery Status Distribution
-![Delivery Status](images/delivery_status.png)
+- Delivery Status Distribution
 
-### Correlation Heatmap
-![Heatmap](images/correlation_heatmap.png)
+- Correlation Heatmap
+
 
 ---
 
@@ -112,26 +106,19 @@ Ein vollständiges Datenanalyseprojekt auf Basis eines realen Lieferketten-Daten
 
 ### Visualisierungen
 
-### Umsatz nach Kategorie
-![Sales by Category](images/sales_by_category.png)
+- Umsatz nach Kategorie
 
-### Verspätungsrate nach Versandart
-![Late Delivery](images/late_delivery_by_mode.png)
+- Verspätungsrate nach Versandart
 
-### Monatlicher Umsatztrend
-![Monthly Trend](images/monthly_sales_trend.png)
+- Monatlicher Umsatztrend
 
-### Gewinn nach Kundensegment
-![Profit](images/profit_by_segment.png)
+- Gewinn nach Kundensegment
 
-### Nettoumsatz nach Markt
-![Revenue](images/revenue_by_market.png)
+- Nettoumsatz nach Markt
 
-### Verteilung des Lieferstatus
-![Delivery Status](images/delivery_status.png)
+- Verteilung des Lieferstatus
 
-### Korrelations-Heatmap
-![Heatmap](images/correlation_heatmap.png)
+- Korrelations-Heatmap
 
 ---
 
